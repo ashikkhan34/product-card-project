@@ -1,0 +1,9 @@
+.active{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
+.btn{
+    padding: 15px;
+    cursor: pointer;
+}

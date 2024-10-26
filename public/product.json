@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Ergonomic Office Chair",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "An ergonomic office chair with lumbar support, adjustable armrests, and breathable mesh back.",
+        "price": 149.99,
+        "category": "Furniture",
+        "isFeature": true
+    },
+    {
+        "id": 2,
+        "name": "Noise-Canceling Headphones",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Over-ear wireless headphones with active noise canceling, Bluetooth connectivity, and up to 30 hours of battery life.",
+        "price": 199.99,
+        "category": "Electronics",
+        "isFeature": true
+    },
+    {
+        "id": 3,
+        "name": "Stainless Steel Water Bottle",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "A 750ml double-wall insulated water bottle that keeps beverages cold for 24 hours and hot for 12 hours.",
+        "price": 24.99,
+        "category": "Accessories",
+        "isFeature": false
+    },
+    {
+        "id": 4,
+        "name": "Yoga Mat",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Non-slip yoga mat with a 6mm thickness, providing excellent cushioning for all yoga and Pilates exercises.",
+        "price": 29.99,
+        "category": "Fitness",
+        "isFeature": true
+    },
+    {
+        "id": 5,
+        "name": "LED Desk Lamp",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Adjustable LED desk lamp with touch controls and three brightness levels, perfect for study or office.",
+        "price": 39.99,
+        "category": "Home & Office",
+        "isFeature": false
+    },
+    {
+        "id": 6,
+        "name": "Portable Power Bank",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "10,000mAh power bank with dual USB ports for quick charging, compatible with all devices.",
+        "price": 19.99,
+        "category": "Electronics",
+        "isFeature": false
+    },
+    {
+        "id": 7,
+        "name": "Bluetooth Speaker",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Compact Bluetooth speaker with rich bass, waterproof design, and 10 hours of playtime.",
+        "price": 49.99,
+        "category": "Electronics",
+        "isFeature": true
+    },
+    {
+        "id": 8,
+        "name": "Running Shoes",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Lightweight running shoes with breathable mesh upper and cushioned sole for maximum comfort.",
+        "price": 89.99,
+        "category": "Footwear",
+        "isFeature": true
+    },
+    {
+        "id": 9,
+        "name": "Smartwatch",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Feature-packed smartwatch with heart rate monitor, GPS tracking, and customizable watch faces.",
+        "price": 149.99,
+        "category": "Wearables",
+        "isFeature": false
+    },
+    {
+        "id": 10,
+        "name": "Wireless Charger",
+        "image": "https://i.ibb.co/qJPRpBC/product.jpg",
+        "description": "Fast wireless charger compatible with all Qi-enabled devices, featuring a sleek, compact design.",
+        "price": 29.99,
+        "category": "Electronics",
+        "isFeature": false
+    }
+]
